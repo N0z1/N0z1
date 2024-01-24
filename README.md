@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics, AI and Machine Learning
 - 🌱 I’m currently learning HTML, CSS, Javascript, C, and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Linkedin
 
 <!---
 N0z1/N0z1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
