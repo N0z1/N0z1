@@ -1,8 +1,12 @@
 # 💫About Me :
-🧠  Master's student in Electrical & Electronic Engineering @ GCU, specialising in Mechatronics & Robotics
-🤖  I design and build robotics + embedded systems projects using Arduino, ESP32, and 3D printing
-📹  Sharing tutorials and tech builds on TikTok, LinkedIn, and GitHub
-🛠️  Explore my open-source projects and engineering resources
+🧠  Master's student in Electrical & Electronic Engineering @ GCU, specialising in Mechatronics & Robotics.
+
+🤖  I design and build robotics + embedded systems projects using Arduino, ESP32, and 3D printing.
+
+📹  Sharing tutorials and tech builds on TikTok, LinkedIn, and GitHub.
+
+🛠️  Explore my open-source projects and engineering resources.
+
 🚀  Join me on my journey as I transition from student to engineer — let's build something amazing!
 
 ## 🌐Socials
