@@ -11,13 +11,6 @@ I am currently pursuing my degree in Electrical and Electronics Engineering. I a
  Python, C, C++, Java, Arduino, Altium, TypeScript, Jupyter Notebook, HTML, CSS, Git, Machine Learning, Deep Learning, React, Node.js,TensorFlow, Raspberry Pi, OpenCV, ROS, Unity, Godot(GDscript) GitHub Actions, FastAPI
 
 ## Top Projects
-
-### [WASTERA](https://github.com/N0z1/WASTERA)
-- **Description:** Developed as part of the Bright Network Internship Experience 2023, exploring frontend development using Magic Patterns and Vite to create a structured prototype.
-- **Stars:** 0  
-- **Language:** TypeScript  
-- **Forks:** 0 | **Issues:** 0
-
 ### [Advanced Coin Segmentation](https://github.com/N0z1/Advanced_Coin_Segmentation)
 - **Description:** An advanced coin detection system using watershed segmentation and computer vision techniques to identify and classify coins in images.
 - **Stars:** 0  
@@ -28,6 +21,12 @@ I am currently pursuing my degree in Electrical and Electronics Engineering. I a
 - **Description:** A collection of various machine learning projects showcasing different algorithms and techniques.
 - **Stars:** 1  
 - **Language:** Jupyter Notebook  
+- **Forks:** 0 | **Issues:** 0
+
+### [WASTERA](https://github.com/N0z1/WASTERA)
+- **Description:** Developed as part of the Bright Network Internship Experience 2023, exploring frontend development using Magic Patterns and Vite to create a structured prototype.
+- **Stars:** 0  
+- **Language:** TypeScript  
 - **Forks:** 0 | **Issues:** 0
 
 ## GitHub Stats
