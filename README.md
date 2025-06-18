@@ -29,23 +29,6 @@ I am currently pursuing my degree in Electrical and Electronics Engineering. I a
 - **Language:** TypeScript  
 - **Forks:** 0 | **Issues:** 0
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0z1&show_icons=true&theme=radical)  
-
-- **Public Repositories:** 13  
-- **Followers:** 0  
-- **Following:** 3
-
-## Recent Activity
-
-- **Updated README.md** in [WASTERA](https://github.com/N0z1/WASTERA)  
-- **Added files via upload** in [WASTERA](https://github.com/N0z1/WASTERA)  
-- **Opened a pull request** in [WASTERA](https://github.com/N0z1/WASTERA)  
-- **Pushed new commits** to [WASTERA](https://github.com/N0z1/WASTERA)  
-- **Deleted a branch** in [WASTERA](https://github.com/N0z1/WASTERA)  
-Check out the [complete activity feed](https://github.com/N0z1).
-
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts to share. Stay tuned for future updates!
