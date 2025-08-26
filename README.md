@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I'm Nassor Y Salim, an EEE Engineering student with a passion for Machine Learning and software development! 🚀 Let's explore the amazing world of technology together!
+I'm Nassor, an EEE Engineering Graduate with a passion for Machine Learning and software development! 🚀 Let's explore the amazing world of technology together!
 
 ## About Me
 
-I am currently pursuing my degree in Electrical and Electronics Engineering. I am passionate about developing innovative solutions using technology, particularly in the fields of Machine Learning and embedded systems. I am proficient in programming languages such as C, Python, and Java, and I enjoy working on projects involving Arduino and circuit design with Altium.
+Ive recently graduate from my masters degree in Electrical and Electronics Engineering with a distinction. I am passionate about developing innovative solutions using technology, particularly in the fields of Machine Learning and embedded systems. I am proficient in programming languages such as C, Python, and Java, and I enjoy working on projects involving Hardware and circuit design with Altium and Kicad.
 
 ## Skills & Technologies
 
