@@ -4,30 +4,13 @@ I'm Nassor, an EEE Engineering Graduate with a passion for Machine Learning and 
 
 ## About Me
 
-Ive recently graduate from my masters degree in Electrical and Electronics Engineering with a distinction. I am passionate about developing innovative solutions using technology, particularly in the fields of Machine Learning and embedded systems. I am proficient in programming languages such as C, Python, and Java, and I enjoy working on projects involving Hardware and circuit design with Altium and Kicad.
+Ive recently graduate from my masters degree in Electrical and Electronics Engineering with a first class . I am passionate about developing innovative solutions using technology, particularly in the fields of Machine Learning and embedded systems. I am proficient in programming languages such as C, Python, and Java, and I enjoy working on projects involving Hardware and circuit design with Altium and Kicad.
 
 ## Skills & Technologies
 
  Python, C, C++, Java, Arduino, Altium, TypeScript, Jupyter Notebook, HTML, CSS, Git, Machine Learning, Deep Learning, React, Node.js,TensorFlow, Raspberry Pi, OpenCV, ROS, Unity, Godot(GDscript) GitHub Actions, FastAPI
 
-## Top Projects
-### [Advanced Coin Segmentation](https://github.com/N0z1/Advanced_Coin_Segmentation)
-- **Description:** An advanced coin detection system using watershed segmentation and computer vision techniques to identify and classify coins in images.
-- **Stars:** 0  
-- **Language:** Jupyter Notebook  
-- **Forks:** 0 | **Issues:** 0
 
-### [Machine Learning Projects](https://github.com/N0z1/Machine_Learning_projects)
-- **Description:** A collection of various machine learning projects showcasing different algorithms and techniques.
-- **Stars:** 1  
-- **Language:** Jupyter Notebook  
-- **Forks:** 0 | **Issues:** 0
-
-### [WASTERA](https://github.com/N0z1/WASTERA)
-- **Description:** Developed as part of the Bright Network Internship Experience 2023, exploring frontend development using Magic Patterns and Vite to create a structured prototype.
-- **Stars:** 0  
-- **Language:** TypeScript  
-- **Forks:** 0 | **Issues:** 0
 
 ## Latest Blog Posts
 
